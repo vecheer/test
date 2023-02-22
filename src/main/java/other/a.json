@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "label": "MFS",
+            "children": [
+                {
+                    "label": "MFS1.0",
+                    "children": [
+                        {
+                            "label": "AS_IFS_AUT"
+                        },
+                        {
+                            "label": "S_IFS_AIT"
+                        }
+                    ]
+                },
+                {
+                    "label": "MFS2.0",
+                    "children": [
+                        {
+                            "label": "AS_IFS_AUT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "TB",
+            "children": [
+                {
+                    "label": "二级 2-1",
+                    "children": [
+                        {
+                            "label": "三级 2-1-1"
+                        }
+                    ]
+                },
+                {
+                    "label": "二级 2-2",
+                    "children": [
+                        {
+                            "label": "三级 2-2-1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
